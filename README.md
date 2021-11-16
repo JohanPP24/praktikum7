@@ -64,37 +64,37 @@ ini adalah tampilan setelah nilai n diisi <p>
 FLOWCHART <p>
 Menentukan nilai terbesar dari tiga bilangan <p>
 
-![gambar](gambar/flowchart.png)
+![gambar](gambar/gambar9.png)
 
 ini adalah programnya <p>
 
-![gambar](gambar/lab2.png)
+![gambar](gambar/gambar10.png)
 
 ini adalah tampilan setelah run dan setelah nilai dimasukkan <p>
 
-![gambar](gambar/lab2.2.png)
+![gambar](gambar/gambar11.png)
 
 ##### Praktikum 3
 Latihan 1 <p>
 Tampilkan n bilangan acak yang lebih kecil dari 0.5. <p>
 Ini programnya <p>
 
-![gambar](gambar/gambar9.png)
+![gambar](gambar/gambar12.png)
 
 Ini hasil eksekusinya, stelah nilai n diinput. <p>
 
-![gambar](gambar/gambar10.png)
+![gambar](gambar/gambar13.png)
 
 Latihan 2 <p>
 Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan.
 Masukkan angka 0 untuk berhenti. <p>
 Ini programnya <p>
 
-![gambar](gambar/gambar11.png)
+![gambar](gambar/gambar14.png)
 
 tampilan setelah program dieksekusi, input beberapa angka atau bilangan secara acak. <p>
 
-![gambar](gambar/gambar12.png)
+![gambar](gambar/gambar15.png)
 
 Program 1 <p>
 Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan
@@ -105,11 +105,11 @@ keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 
 bulan berjalan usahanya. <p>
 Program1.py <p>
 
-![gambar](gambar/program1.png)
+![gambar](gambar/gambar16.png)
 
 Hasil eksekusi, total keuntungan yang diperoleh selama 8 bulan. <p>
 
-![gambar](gambar/program1.1.png)
+![gambar](gambar/gambar17.png)
 
 
 Thanks you 
